@@ -54,6 +54,7 @@
                     <connections>
                         <outlet property="answersStackView" destination="UGw-wZ-U8D" id="qlX-4i-FtB"/>
                         <outlet property="choicesStackView" destination="RTD-Hj-a1L" id="NC3-DW-o2x"/>
+                        <outlet property="playAgainButton" destination="GGQ-yE-kzV" id="ONB-yo-viC"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
